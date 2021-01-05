@@ -1,1 +1,14 @@
+/* @import '~bootstrap/scss/bootstrap'; */
 
+i {
+  font-size: 4rem;
+  margin-bottom: 2rem;
+}
+
+.container {
+  display: flex;
+}
+
+.row {
+  justify-content: space-between;
+}
